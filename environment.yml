@@ -1,9 +1,10 @@
-name: risk1
+name: climate
 dependencies:
+  - python=3.5
   - numpy
   - pandas
   - matplotlib
   - scipy
-  - scikit
+  - scikit-learn
 
   
