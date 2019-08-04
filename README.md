@@ -26,5 +26,5 @@ copyright @ Thomas Robert Holy 2019
 -----------------------
 Data:
 
-Deutscher Wetterdienst
-ftp://ftp-cdc.dwd.de/pub/CDC/observations_germany/climate/daily/kl/historical/tageswerte_KL_02444_18240101_20171231_hist.zip
+Quelle/Source: Deutscher Wetterdienst
+ftp://ftp-cdc.dwd.de/pub/CDC/observations_germany/climate/daily/kl/historical/
