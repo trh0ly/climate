@@ -11,7 +11,7 @@ Status:
 
 This project is in the development phase.
 
-You can run the project here: ...
+You can run the project here: https://mybinder.org/v2/gh/trh0ly/climate/master
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 Copyright:
