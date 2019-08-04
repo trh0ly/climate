@@ -1,0 +1,9 @@
+name: risk1
+dependencies:
+  - numpy
+  - pandas
+  - matplotlib
+  - scipy
+  - math
+  - sklearn
+  
