@@ -9,7 +9,7 @@ The goal of this project is the pricing of weather options using Python. Histori
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 Status:
 
-This project is in the development phase.
+The project is ready to run.
 
 You can run the project here: https://mybinder.org/v2/gh/trh0ly/climate/master
 
@@ -18,8 +18,6 @@ Copyright:
 
 -----------------------
 Source Code:
-
-The distribution of the source code is prohibited at this time.
 
 copyright @ Thomas Robert Holy 2019
 
