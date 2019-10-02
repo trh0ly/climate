@@ -16,7 +16,6 @@ You can run the project here: https://mybinder.org/v2/gh/trh0ly/climate/master
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 Copyright:
 
------------------------
 Source Code:
 
 MIT License
@@ -41,7 +40,6 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
------------------------
 Data:
 
 Quelle/Source: Deutscher Wetterdienst
