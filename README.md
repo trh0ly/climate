@@ -11,7 +11,7 @@ Status:
 
 The project is ready to run.
 
-You can run the project here:https://mybinder.org/v2/gh/trh0ly/weather-derivative-pricing-and-climate/
+You can run the project here: https://mybinder.org/v2/gh/trh0ly/weather-derivative-pricing-and-climate/master
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 Copyright:
