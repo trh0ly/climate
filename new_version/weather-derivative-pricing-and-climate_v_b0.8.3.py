@@ -2,6 +2,7 @@
 """
 1) Multithreading is not well implemented
 2) There seems to be a memory leak by creating figures
+3) The program is not resizable
 """
 
 # -------------------------------------------
