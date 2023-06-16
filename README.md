@@ -6,6 +6,8 @@ Overview:
 
 The goal of this project is the pricing of weather options using Python. Historical weather data of the DWD are used for this purpose. In addition, this program can be used to determine the annual average temperature, so that the effects of climate change can be seen.
 
+<img width="1431" alt="Unbenannt" src="https://github.com/trh0ly/weather-derivative-pricing-and-climate/assets/53110151/4f6a9cac-096e-4657-921f-666d6ea635f2">
+
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 Status:
 
