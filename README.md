@@ -11,7 +11,7 @@ The goal of this project is the pricing of weather options using Python. Histori
 -------------------------------------------------------------------------------------------------------------------------------------------------------
 Status:
 
-The project is ready to run.
+The project is ready to run. You might have a look at the <a href="https://github.com/trh0ly/weather-derivative-pricing-and-climate/tree/master/new_version">new version</a>, which is available as an executable file. 
 
 You can run the project here: https://mybinder.org/v2/gh/trh0ly/weather-derivative-pricing-and-climate/master
 
